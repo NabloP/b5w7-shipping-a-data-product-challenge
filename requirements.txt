@@ -1,0 +1,59 @@
+# -------------------------
+# ENVIRONMENT MANAGEMENT
+# -------------------------
+python-dotenv
+
+# -------------------------
+# CORE DATA LIBRARIES
+# -------------------------
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+
+# -------------------------
+# TELEGRAM SCRAPING
+# -------------------------
+telethon
+
+# -------------------------
+# DBT TRANSFORMATION
+# -------------------------
+dbt-core
+dbt-postgres
+
+# -------------------------
+# IMAGE ENRICHMENT (YOLO)
+# -------------------------
+ultralytics
+
+# -------------------------
+# API DEVELOPMENT
+# -------------------------
+fastapi
+uvicorn
+
+# -------------------------
+# PIPELINE ORCHESTRATION
+# -------------------------
+dagster
+dagster-webserver
+
+# -------------------------
+# TESTING & LINTING
+# -------------------------
+pytest
+flake8
+black
+
+# -------------------------
+# INTERACTIVE ANALYSIS
+# -------------------------
+jupyterlab
+
+# -------------------------
+# OPTIONAL (if visualizing data or scraping logs)
+# -------------------------
+matplotlib
+seaborn
+plotly
